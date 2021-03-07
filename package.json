@@ -7,7 +7,7 @@
   "author": "kalyan Somalaraju <developersomik@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "awake-heroku": "^1.0.17",
+    "awake-heroku": "^2.0.8",
     "express": "^4.17.1",
     "socket.io": "^2.4.1",
     "username-generator": "^1.1.0"

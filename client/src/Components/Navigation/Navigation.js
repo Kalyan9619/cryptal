@@ -14,7 +14,7 @@ const Navigation = () => {
                         <div className="headerLogoLink">
                         <a href='/'>
                             <div className="headerLogo flex flex-row">
-                                <div className="logoImg">
+                                <div className="logoImg" style>
                                     <img src={logo} alt="kalyan Logo"/>
                                     
                                 </div>
